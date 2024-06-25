@@ -1,0 +1,21 @@
+numpy
+flask
+pandas
+xgboost
+Pygments
+jupyter
+pip
+attrs
+wheel
+Pillow
+tornado
+Jinja2
+filelock
+setuptools
+packaging
+platformdirs
+seaborn
+matplotlib
+scikit-learn
+kneed
+-e .
